@@ -5,6 +5,8 @@ This file is having UI file with the same name by _UI.
 
 To test the file, please amend the connectionstring in appsettings file to your mssql connect.
 
+In the UserService file, amend the text file path to your own path.
+
 Example Output:
 ![pulsesync](https://github.com/joecwh/PulseSync_API/assets/139208886/eb632953-44e4-456d-acaf-1b4d9b867ddd)
 
